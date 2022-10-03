@@ -1,0 +1,32 @@
+name: debug_screen_example
+description: Debug Screen Demo
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.1 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  cupertino_icons: ^1.0.2
+  go_router: ^5.0.3
+  debug_bricks_ui: ^1.0.0
+  debug_bricks_fcm_token: ^1.0.0
+  debug_bricks_device_info: ^1.0.0
+  debug_bricks_easy_localization: ^1.0.0
+  shared_preferences: ^2.0.15
+  firebase_core: ^1.20.0
+  firebase_messaging: ^13.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
