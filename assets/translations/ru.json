@@ -1,0 +1,14 @@
+{
+  "app_name": "Пример Debug экрана",
+  "language": "Язык",
+  "settings": "Настройки",
+  "settings_theme_to_dark": "Переключиться на тёмную",
+  "settings_theme_to_light": "Переключиться на светлую",
+  "settings_profile": "Профиль",
+  "settings_account": "Счёт",
+  "settings_documents": "Документы",
+  "settings_debug": "Debug настройки",
+  "localizations_title": "Ключи",
+  "localizations_table_column_key": "Ключ",
+  "localizations_table_column_value": "Значение"
+}

@@ -1,0 +1,14 @@
+{
+  "app_name": "Debug Screen Demo",
+  "language": "Language",
+  "settings": "Settings",
+  "settings_theme_to_dark": "Switch to dark",
+  "settings_theme_to_light": "Switch to light",
+  "settings_profile": "Profile",
+  "settings_account": "Account",
+  "settings_documents": "Documents",
+  "settings_debug": "Debug settings",
+  "localizations_title": "Keys",
+  "localizations_table_column_key": "Key",
+  "localizations_table_column_value": "Value"
+}
