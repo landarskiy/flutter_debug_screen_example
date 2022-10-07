@@ -21,6 +21,7 @@ dependencies:
   firebase_core: ^1.20.0
   firebase_messaging: ^13.0.3
   easy_localization: ^3.0.1
+  talker_flutter: ^2.0.3
 
 dev_dependencies:
   flutter_test:
